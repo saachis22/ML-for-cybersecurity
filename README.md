@@ -38,6 +38,10 @@ The experiments demonstrate data preprocessing, model implementation, visualizat
 
 ## Repository Structure
 
+
+## Repository Structure
+
+```text
 Machine-Learning-for-Cyber-Security/
 │
 ├── Experiment-1-Time-Series-Decomposition/
@@ -77,3 +81,4 @@ Machine-Learning-for-Cyber-Security/
 │   └── Experiment_12.ipynb
 │
 └── README.md
+```
