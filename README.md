@@ -36,8 +36,6 @@ The experiments demonstrate data preprocessing, model implementation, visualizat
 | 12 | Malicious WSN Detection | `Experiment_12.ipynb` |
 
 
-## Repository Structure
-
 
 ## Repository Structure
 
